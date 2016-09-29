@@ -1,2 +1,3 @@
-# Beeroulette
-A great app for finding something great to drink!
+# Sinatra skeleton
+
+Empty Sinatra Skeleton with empty files and pre-made Rakefile.
