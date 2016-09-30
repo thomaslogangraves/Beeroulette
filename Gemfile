@@ -18,6 +18,7 @@ gem 'rake'
 gem 'shotgun'
 gem 'pry'
 gem 'bcrypt'
+gem 'brewery_db'
 
 group :test do
   gem 'shoulda-matchers'
